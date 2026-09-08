@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/apoorva2059-ctrl/DSA/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
