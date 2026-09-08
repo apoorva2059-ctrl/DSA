@@ -7,8 +7,8 @@ class Solution {
         {
             if(arr[i] >= max)
             {
-              max = arr[i];
-              count++;
+                max = arr[i];
+                count++;
             }
         }
         return count;
