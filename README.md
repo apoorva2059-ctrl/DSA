@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -12,5 +13,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [0520-detect-capital](https://github.com/apoorva2059-ctrl/DSA/tree/master/0520-detect-capital) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
