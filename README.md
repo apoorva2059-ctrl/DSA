@@ -15,6 +15,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+| [0443-string-compression](https://github.com/apoorva2059-ctrl/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/apoorva2059-ctrl/DSA/tree/master/0520-detect-capital) |
 ## Trie
 |  |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/apoorva2059-ctrl/DSA/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
