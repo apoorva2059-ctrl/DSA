@@ -18,6 +18,7 @@
 | [0443-string-compression](https://github.com/apoorva2059-ctrl/DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/apoorva2059-ctrl/DSA/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
 | [3163-string-compression-iii](https://github.com/apoorva2059-ctrl/DSA/tree/master/3163-string-compression-iii) |
 ## Trie
 |  |
@@ -32,4 +33,13 @@
 | ------- |
 | [0443-string-compression](https://github.com/apoorva2059-ctrl/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
