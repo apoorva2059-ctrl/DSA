@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/apoorva2059-ctrl/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/apoorva2059-ctrl/DSA/tree/master/0443-string-compression) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/apoorva2059-ctrl/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/apoorva2059-ctrl/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
@@ -42,4 +44,12 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/apoorva2059-ctrl/DSA/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/apoorva2059-ctrl/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
