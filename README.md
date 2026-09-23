@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
+| [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -52,4 +53,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/apoorva2059-ctrl/DSA/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
