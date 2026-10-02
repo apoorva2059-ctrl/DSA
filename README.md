@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/apoorva2059-ctrl/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/apoorva2059-ctrl/DSA/tree/master/2235-add-two-integers) |
 ## String
 |  |
