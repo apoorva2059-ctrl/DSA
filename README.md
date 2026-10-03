@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/apoorva2059-ctrl/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
