@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/apoorva2059-ctrl/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/apoorva2059-ctrl/DSA/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/apoorva2059-ctrl/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/apoorva2059-ctrl/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -42,6 +43,7 @@
 | [0443-string-compression](https://github.com/apoorva2059-ctrl/DSA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/apoorva2059-ctrl/DSA/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/apoorva2059-ctrl/DSA/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
