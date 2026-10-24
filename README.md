@@ -13,6 +13,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/apoorva2059-ctrl/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/apoorva2059-ctrl/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1748-sum-of-unique-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+| [1748-sum-of-unique-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
+| [1748-sum-of-unique-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Bubble Sort
 |  |
 | ------- |
