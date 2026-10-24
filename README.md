@@ -14,6 +14,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/apoorva2059-ctrl/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/apoorva2059-ctrl/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/apoorva2059-ctrl/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Math
 |  |
 | ------- |
