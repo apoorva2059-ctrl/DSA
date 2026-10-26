@@ -15,11 +15,13 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/apoorva2059-ctrl/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/apoorva2059-ctrl/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/apoorva2059-ctrl/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/apoorva2059-ctrl/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/apoorva2059-ctrl/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/apoorva2059-ctrl/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/apoorva2059-ctrl/DSA/tree/master/2235-add-two-integers) |
 ## String
 |  |
