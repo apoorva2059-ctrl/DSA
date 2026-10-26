@@ -16,6 +16,7 @@
 | [1748-sum-of-unique-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/apoorva2059-ctrl/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/apoorva2059-ctrl/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/apoorva2059-ctrl/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0905-sort-array-by-parity](https://github.com/apoorva2059-ctrl/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/apoorva2059-ctrl/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/apoorva2059-ctrl/DSA/tree/master/1051-height-checker) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/apoorva2059-ctrl/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/apoorva2059-ctrl/DSA/tree/master/0724-find-pivot-index) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/apoorva2059-ctrl/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
