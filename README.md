@@ -17,6 +17,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/apoorva2059-ctrl/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/apoorva2059-ctrl/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/apoorva2059-ctrl/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2057-smallest-index-with-equal-value](https://github.com/apoorva2059-ctrl/DSA/tree/master/2057-smallest-index-with-equal-value) |
 ## Math
 |  |
 | ------- |
