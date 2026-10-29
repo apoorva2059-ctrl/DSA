@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/apoorva2059-ctrl/DSA/tree/master/0014-longest-common-prefix) |
+| [0496-next-greater-element-i](https://github.com/apoorva2059-ctrl/DSA/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/apoorva2059-ctrl/DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/apoorva2059-ctrl/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/apoorva2059-ctrl/DSA/tree/master/0905-sort-array-by-parity) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/apoorva2059-ctrl/DSA/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/apoorva2059-ctrl/DSA/tree/master/0496-next-greater-element-i) |
 | [1748-sum-of-unique-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
@@ -58,6 +60,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/apoorva2059-ctrl/DSA/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/apoorva2059-ctrl/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -95,4 +98,8 @@
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/apoorva2059-ctrl/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/apoorva2059-ctrl/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
