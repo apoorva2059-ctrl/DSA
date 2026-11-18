@@ -102,4 +102,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apoorva2059-ctrl/DSA/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/apoorva2059-ctrl/DSA/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
